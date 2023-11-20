@@ -1,0 +1,1 @@
+mientras(condicion = verdadera) { imrpimir("hola"); }

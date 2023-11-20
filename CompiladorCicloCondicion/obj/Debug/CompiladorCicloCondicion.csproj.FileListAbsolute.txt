@@ -1,0 +1,7 @@
+C:\Users\angel\source\repos\CompiladorCicloCondicion\CompiladorCicloCondicion\bin\Debug\CompiladorCicloCondicion.exe.config
+C:\Users\angel\source\repos\CompiladorCicloCondicion\CompiladorCicloCondicion\bin\Debug\CompiladorCicloCondicion.exe
+C:\Users\angel\source\repos\CompiladorCicloCondicion\CompiladorCicloCondicion\bin\Debug\CompiladorCicloCondicion.pdb
+C:\Users\angel\source\repos\CompiladorCicloCondicion\CompiladorCicloCondicion\obj\Debug\CompiladorCicloCondicion.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\CompiladorCicloCondicion\CompiladorCicloCondicion\obj\Debug\CompiladorCicloCondicion.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\CompiladorCicloCondicion\CompiladorCicloCondicion\obj\Debug\CompiladorCicloCondicion.exe
+C:\Users\angel\source\repos\CompiladorCicloCondicion\CompiladorCicloCondicion\obj\Debug\CompiladorCicloCondicion.pdb
